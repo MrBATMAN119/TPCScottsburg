@@ -1,0 +1,332 @@
+{
+  "report_date": "2025-06-30",
+  "church_info": {
+    "name": "Turning Point Church Scottsburg",
+    "slogans": [
+      "A people of second chances and new beginnings",
+      "Be the Light",
+      "WE ARE THE FAMILY OF GOD! YOU BELONG HERE"
+    ],
+    "location": {
+      "street_address": "899 W McClain Ave",
+      "city": "Scottsburg",
+      "state": "IN",
+      "zip_code": "47170",
+      "country": "USA"
+    },
+    "contact": {
+      "phone": "(812) 752-7857",
+      "email": "office@tpcscottsburg.com",
+      "mailing_address": "PO BOX 141, Scottsburg, Indiana 47170"
+    },
+    "online_presence": {
+      "website": "https://www.turningpointchurchscottsburg.com/",
+      "youtube": {
+        "url": "https://www.youtube.com/@TPCScottsburg",
+        "handle": "@TPCScottsburg",
+        "subscribers": 374,
+        "video_count": 335
+      },
+      "facebook": "https://www.facebook.com/Turningpointscottsburg/",
+      "instagram_handle": "@tpcscottsburg",
+      "giving_app": "@TPCScottsburg"
+    },
+    "mission_statement": "At Turning Point Church, we believe in the life-changing power of God and that His love still chases people down. We believe that God sets people free with the power of the Holy Spirit, renews their minds through the Word of God, and that salvation comes only through the name of Jesus!",
+    "affiliation": "Southeastern Indiana Baptist Association (SEIBA), Southern Baptist Convention"
+  },
+  "pastors": [
+    {
+      "status": "current",
+      "name": "Jon Jackson",
+      "title": "Senior Pastor",
+      "spouse": "Liz Jackson",
+      "children": [
+        "Victoria",
+        "Jameson",
+        "Connor"
+      ],
+      "biography": "Jon and his wife, Liz, have been faithfully serving the Lord together for years. Their passion for bringing people to God is incredible.",
+      "linkedin_url": "https://www.linkedin.com/in/jon-jackson-98b80434b"
+    },
+    {
+      "status": "former",
+      "name": "Danny",
+      "title": "Pastor",
+      "spouse": "Deanna",
+      "date_of_passing": "2018-05-25",
+      "legacy": "Remembered as a 'mighty champion' for God, a life-changer, and a kind, compassionate community pillar who was always available to offer prayer and support."
+    }
+  ],
+  "sermon_series": [
+    {
+      "id": "series_01",
+      "title": "Peace Maker",
+      "description": "A series focused on relational and conflict resolution topics."
+    },
+    {
+      "id": "series_02",
+      "title": "Matthew Study",
+      "description": "An in-depth study of the book of Matthew."
+    },
+    {
+      "id": "series_03",
+      "title": "Better Together",
+      "description": "A series based on the book of Exodus."
+    },
+    {
+      "id": "series_04",
+      "title": "Love Series",
+      "description": "A thematic series on the topic of love."
+    },
+    {
+      "id": "series_05",
+      "title": "Breakthrough Series",
+      "description": "A series focused on achieving spiritual breakthroughs."
+    }
+  ],
+  "sermons": [
+    {
+      "id": "sermon_001",
+      "title": "Small Groups Peace Maker Part 3",
+      "speaker": "Jon Jackson",
+      "date": "2025-06-29",
+      "series_id": "series_01",
+      "video_url": "https://www.youtube.com/watch?v=h0iZ9_6DRrc",
+      "format": "Video",
+      "duration_seconds": null
+    },
+    {
+      "id": "sermon_002",
+      "title": "Sunday Service Matthew 2 1-12 Sermon Only",
+      "speaker": "Jon Jackson",
+      "date": "2025-06-22",
+      "series_id": "series_02",
+      "video_url": "https://www.youtube.com/watch?v=ULM2BFO7jW4",
+      "format": "Video",
+      "duration_seconds": 2233
+    },
+    {
+      "id": "sermon_003",
+      "title": "Small Groups Peace Maker Part 2",
+      "speaker": "Jon Jackson",
+      "date": "2025-06-15",
+      "series_id": "series_01",
+      "video_url": "https://www.youtube.com/watch?v=51qeqN8XsOc",
+      "format": "Video",
+      "duration_seconds": 1245
+    },
+    {
+      "id": "sermon_004",
+      "title": "Sunday Service Matthew 2 Father's Day Joseph Sermon Only",
+      "speaker": "Jon Jackson",
+      "date": "2025-06-15",
+      "series_id": "series_02",
+      "video_url": "https://www.youtube.com/watch?v=XB01PUDn7k0",
+      "format": "Video",
+      "duration_seconds": 1932,
+      "description": "A Father's Day message looking at Joseph's life."
+    },
+    {
+      "id": "sermon_005",
+      "title": "Sunday Service Matthew 1 Verse 18 25 Sermon Only",
+      "speaker": "Jon Jackson",
+      "date": "2025-06-08",
+      "series_id": "series_02",
+      "video_url": "https://www.youtube.com/watch?v=2B1AJS4ubYE",
+      "format": "Video",
+      "duration_seconds": 1809
+    },
+    {
+      "id": "sermon_006",
+      "title": "Small Groups Peace Maker Part 1",
+      "speaker": "Jon Jackson",
+      "date": "2025-06-08",
+      "series_id": "series_01",
+      "video_url": "https://www.youtube.com/watch?v=ZBmDto4XyR0",
+      "format": "Video",
+      "duration_seconds": 1100
+    },
+    {
+      "id": "sermon_007",
+      "title": "Sunday Service Memorial Service Sermon Only",
+      "speaker": "Bob Russell",
+      "date": null,
+      "series_id": null,
+      "video_url": null,
+      "format": "Video",
+      "duration_seconds": 2721,
+      "description": "Guest speaker for a Memorial Service."
+    },
+    {
+      "id": "sermon_008",
+      "title": "Sunday Service - Better Together Exodus 34-37 - Sermon Only",
+      "speaker": "Jon Jackson",
+      "date": null,
+      "series_id": "series_03",
+      "video_url": null,
+      "format": "Video",
+      "duration_seconds": 2058,
+      "scripture_focus": "Exodus 34-37"
+    },
+    {
+      "id": "sermon_009",
+      "title": "LOVE SERIES #1",
+      "speaker": "Jon Jackson",
+      "date": "2020-02-02",
+      "series_id": "series_04",
+      "video_url": "https://www.youtube.com/watch?v=i3itIDAhgEI",
+      "format": "Video",
+      "duration_seconds": null
+    },
+    {
+      "id": "sermon_010",
+      "title": "Sunday Sermon",
+      "speaker": "Deanna Jackson",
+      "date": "2018-09-02",
+      "series_id": null,
+      "video_url": "https://www.youtube.com/watch?v=IUNpobEe3yQ",
+      "format": "Video",
+      "duration_seconds": null
+    },
+    {
+      "id": "sermon_011",
+      "title": "Audio Sermon",
+      "speaker": "Sam Hopwood",
+      "date": "2018-07-15",
+      "series_id": null,
+      "video_url": "https://www.youtube.com/watch?v=afpUbtF-PDc",
+      "format": "Audio",
+      "duration_seconds": null
+    },
+    {
+      "id": "sermon_012",
+      "title": "BREAKTHROUGH SERIES #3",
+      "speaker": "Jon Jackson",
+      "date": "2019-08-11",
+      "series_id": "series_05",
+      "video_url": "https://www.youtube.com/watch?v=qbmM5zSlCsw",
+      "format": "Video",
+      "duration_seconds": null
+    }
+  ],
+  "events": {
+    "recurring": [
+      {
+        "name": "Sunday School",
+        "day": "Sunday",
+        "time": "09:00",
+        "frequency": "Weekly",
+        "description": "In-depth biblical teaching and discussion for various age groups."
+      },
+      {
+        "name": "Main Worship Service",
+        "day": "Sunday",
+        "time": "10:00",
+        "frequency": "Weekly",
+        "description": "Main service including worship, prayer, and a sermon. Live stream available online."
+      },
+      {
+        "name": "Mid-week Service",
+        "day": "Wednesday",
+        "time": "18:30",
+        "frequency": "Weekly",
+        "description": "Worship followed by classes for all ages, from Nursery through Adult."
+      },
+      {
+        "name": "Men's & Women's Bible Studies",
+        "day": "Wednesday",
+        "time": "19:00",
+        "frequency": "Weekly",
+        "description": "Dedicated Bible studies for men and women, following the mid-week worship."
+      }
+    ],
+    "special": [
+      {
+        "name": "Man Up Conference 2022",
+        "date": "2021-12-28",
+        "status": "Past",
+        "description": "A conference aimed at empowering and equipping men within the community."
+      },
+      {
+        "name": "National Day of Prayer Service",
+        "date": "2025-05-01",
+        "status": "Past",
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "location": "Ross Theater",
+        "description": "Community prayer service for the National Day of Prayer."
+      }
+    ]
+  },
+  "programs": [
+    {
+      "name": "Adult Ministry",
+      "description": "Building our families and lives together. MEN AND WOMEN GROWING IN CHRIST TOGETHER!",
+      "guiding_scripture": "1 John 1:7",
+      "meeting_schedule": "Sunday Groups at 9:00 AM and Wednesday Bible Study at 6:30 PM."
+    },
+    {
+      "name": "Young Adult Ministry",
+      "description": "Creating memories, bonds, and eternal friendship. This is our newest TPC ministry group.",
+      "guiding_scripture": "Colossians 3:14, Colossians 1:9",
+      "meeting_schedule": "First Sunday night of each month."
+    },
+    {
+      "name": "Youth Ministry",
+      "target_audience": "6th to 12th grade",
+      "slogan": "Join the movement. We are family.",
+      "guiding_scripture": "Jeremiah 1:7-9",
+      "meeting_schedule": "Small groups on Sundays at 9:00 AM and Wednesdays at 6:30 PM."
+    },
+    {
+      "name": "Children's Ministry",
+      "target_audience": "Nursery-aged and up",
+      "description": "Dedicated programming and classes for younger age groups to learn about God in a safe and fun environment.",
+      "meeting_schedule": "Classes during Sunday School at 9:00 AM and Wednesday services at 6:30 PM."
+    },
+    {
+      "name": "The Ministry of Encouragement",
+      "description": "Helping fellow believers through the ministry of encouragement and striving for unity to build the kingdom of God.",
+      "core_principles": [
+        "The only way to heaven is through Jesus!",
+        "You must repent of your sins, and turn away from your sinful nature.",
+        "Jesus lived a sinless life, and he is the son of God.",
+        "Jesus is King! Overall!"
+      ]
+    },
+    {
+      "name": "Prayer Wall",
+      "description": "A dedicated online platform for members to submit prayer requests and intercede for one another."
+    },
+    {
+      "name": "Online Giving",
+      "description": "Facilitates online giving for tithes and special offerings to support the church's ministries and community initiatives like CASA.",
+      "platform": "Pushpay (via website or @TPCScottsburg app)"
+    }
+  ],
+  "testimonials": [
+    {
+      "type": "Video Collection",
+      "title": "Testimonials of what God is doing",
+      "date": "2022-03-29",
+      "url": "https://youtu.be/BOjGHsDcJGU",
+      "source": "Facebook Post"
+    },
+    {
+      "type": "Video Collection",
+      "title": "Youth service testimonies . Part 1/3",
+      "date": "2018-07-08",
+      "url": "https://www.youtube.com/watch?v=1M6XxSFXX0w",
+      "source": "YouTube",
+      "description": "Part of a series of video testimonials from the youth ministry."
+    },
+    {
+      "type": "Quote",
+      "author": "Beverly Futter",
+      "role": "Visitor",
+      "quote": "I was a oot visitor Sunday and was so impressed with how many younger people were there . Amazing !",
+      "context": "Comment on a Facebook post sharing testimonials.",
+      "date": "2022-03-29"
+    }
+  ]
+}
