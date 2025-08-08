@@ -3,7 +3,7 @@
 
 import { useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { Heart } from 'lucide-react';
+import { Heart, Globe, Youtube } from 'lucide-react';
 import { DonationModal } from './donation-modal';
 
 export function Header() {
@@ -38,6 +38,24 @@ export function Header() {
               </a>
               <a href="#testimonials" className="text-slate-300 hover:text-white transition-colors">
                 Testimonials
+              </a>
+              <a
+                href="https://www.turningpointchurchscottsburg.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-slate-300 hover:text-white transition-colors flex items-center"
+              >
+                <Globe className="w-4 h-4 mr-1" />
+                Website
+              </a>
+              <a
+                href="https://www.youtube.com/@TPCScottsburg"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-slate-300 hover:text-white transition-colors flex items-center"
+              >
+                <Youtube className="w-4 h-4 mr-1" />
+                YouTube
               </a>
             </nav>
             
