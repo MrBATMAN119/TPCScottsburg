@@ -73,7 +73,17 @@ export function Footer() {
           <div>
             <h4 className="text-lg font-semibold text-white mb-4">Connect With Us</h4>
             <div className="space-y-3">
-              <a 
+              <a
+                href="https://pushpay.com/g/turningpointchurchscottsburg?src=fp"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center text-slate-400 hover:text-amber-400 text-sm transition-colors"
+              >
+                <ExternalLink className="w-4 h-4 mr-2" />
+                Donate Now
+              </a>
+
+              <a
                 href="https://www.turningpointchurchscottsburg.com/"
                 target="_blank"
                 rel="noopener noreferrer"
